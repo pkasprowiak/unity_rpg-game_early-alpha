@@ -1,4 +1,4 @@
-# Unity Early Alpha 2D Rpg Game
+# Unity Pre-Alpha 2D Rpg Game
 Very early stage of the rpg game made in Unity.
 It uses sprites.
 
